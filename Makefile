@@ -1,2 +1,2 @@
 build:
-	go build -x -o ./builds/bugscanner-go .
+	go build -x -o ./builds/bughunter-go .
