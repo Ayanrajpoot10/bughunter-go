@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/Ayanrajpoot10/bugscanner-go/cmd"
+    "github.com/Ayanrajpoot10/bughunter-go/cmd"
     "github.com/fatih/color"
 )
 

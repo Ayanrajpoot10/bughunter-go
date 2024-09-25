@@ -1,4 +1,4 @@
-module github.com/Ayanrajpoot10/bugscanner-go
+module github.com/Ayanrajpoot10/bughunter-go
 
 go 1.18
 
